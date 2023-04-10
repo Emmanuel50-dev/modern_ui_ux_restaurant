@@ -29,8 +29,7 @@ Some of the key design decisions I made during the design process include:
 ## Conclusion
 The modern UI/UX design for a restaurant is a great solution for creating a compelling online presence that enhances the user experience. The design aligns with the restaurant's brand and values, creating a visually appealing and user-friendly website that can attract and retain customers.
 
-## Credits
-The design solution was created using Figma and is based on the following links:
+The design solution was created using Figma.
 
 ### check out the [Demo website](https://emmanuel50-dev.github.io/modern_ui_ux_restaurant/)
 
