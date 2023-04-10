@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Modern UI/UX Design for a Restaurant Landing Page
+### [Live Site](https://emmanuel50-dev.github.io/modern_ui_ux_restaurant/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-## Available Scripts
+## Problem Description
+The modern UI/UX design for a restaurant solves the primary problem of creating an online presence that enhances the overall user experience. The design solution effectively communicates the restaurant's brand and creates a compelling visual representation of the restaurant. The goal is to provide a user-friendly interface that allows users to easily access information about the restaurant, view menus, make reservations, and order food online.
 
-In the project directory, you can run:
+## Approach
+I started by researching the restaurant industry and the target audience to understand the user's expectations and preferences. I analyzed competitor websites and looked for design inspiration to create a unique and engaging design.
 
-### `npm start`
+Using Figma, I created a wireframe of the website that outlined the main sections and functionality of the website. I iterated on the wireframe based on feedback from the client and the target audience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Once the wireframe was finalized, I created high-fidelity mockups that reflected the restaurant's brand and values. I paid attention to typography, color scheme, imagery, and white space to create a cohesive and visually appealing design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Design Decisions
+Some of the key design decisions I made during the design process include:
 
-### `npm test`
+- Typography: I used a modern and legible typeface that is easy to read on different devices and screen sizes. The font size and spacing were adjusted to enhance readability.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Color scheme: The color palette used reflects the restaurant's brand and values. The primary colors used are blue and white, which conveys a sense of trust and cleanliness.
 
-### `npm run build`
+- Imagery: High-quality images were used to showcase the food and ambiance of the restaurant. The images are visually appealing and aligned with the restaurant's brand.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Navigation: The navigation is simple and intuitive, allowing users to easily access different sections of the website.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- User Experience: The website is designed to provide a seamless and enjoyable user experience. The website is optimized for different devices and screen sizes, making it accessible to a wide range of users. The menu section is well-organized and easy to navigate, with clear descriptions of each dish. The reservation section is also easy to use, with a simple form that allows users to book a table quickly.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Conclusion
+The modern UI/UX design for a restaurant is a great solution for creating a compelling online presence that enhances the user experience. The design aligns with the restaurant's brand and values, creating a visually appealing and user-friendly website that can attract and retain customers.
 
-### `npm run eject`
+## Credits
+The design solution was created using Figma and is based on the following links:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### check out the [Demo website](https://emmanuel50-dev.github.io/modern_ui_ux_restaurant/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
